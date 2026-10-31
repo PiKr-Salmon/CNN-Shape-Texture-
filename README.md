@@ -1,5 +1,6 @@
 # CNN-Shape-Texture-
 
+นายปิยวัฒน์  เครือประเสริฐ  660612152
 Google Collab Coding
 
 Collab && Bias_model
