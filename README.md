@@ -2,6 +2,9 @@
 
 Google Collab Coding
 
+Collab && Bias_model
+https://drive.google.com/drive/folders/1USsxHE6m7SfYuErVQVPDfM-l6GyaUlHO?usp=drive_link
+
 การออกแบบการทดลอง (Experimental Design)
 1. การสร้างเงื่อนไขของชุดข้อมูลทดสอบ (Test Conditions):
    - Original Test Set: ภาพปกติที่มีทั้ง Local Texture และ Global
