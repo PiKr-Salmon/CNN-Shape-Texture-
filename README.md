@@ -1,5 +1,7 @@
 # CNN-Shape-Texture-
 
+Google Collab Coding
+
 การออกแบบการทดลอง (Experimental Design)
 1. การสร้างเงื่อนไขของชุดข้อมูลทดสอบ (Test Conditions):
    - Original Test Set: ภาพปกติที่มีทั้ง Local Texture และ Global
